@@ -28,4 +28,4 @@ Check [docs](https://pkg.go.dev/github.com/nikitavoloboev/go-safari).
 
 You can support me on [GitHub](https://github.com/sponsors/nikitavoloboev) or look into [other projects](https://nikiv.dev/projects) I shared. ♥️
 
-[![0BSD](https://img.shields.io/badge/license-0BSD-0a0a0a.svg?style=flat&colorA=0a0a0a)]() [![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)
+[![0BSD](https://img.shields.io/badge/license-0BSD-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://choosealicense.com/licenses/0bsd/) [![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)
