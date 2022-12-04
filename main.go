@@ -1,4 +1,4 @@
-package main
+package safari
 
 import (
 	"os/exec"

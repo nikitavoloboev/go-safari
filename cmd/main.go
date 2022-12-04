@@ -3,10 +3,12 @@ package main
 import (
 	"fmt"
 	"log"
+
+	"github.com/nikitavoloboev/go-safari"
 )
 
 func main() {
-	url, err := GetCurrentSafariURL()
+	url, err := safari.GetCurrentSafariURL()
 	if err != nil {
 		log.Fatal(err)
 	}
