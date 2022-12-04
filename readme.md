@@ -23,3 +23,9 @@ Running `safari` will print current Safari open URL.
 ## Library
 
 Check [docs](https://pkg.go.dev/github.com/nikitavoloboev/go-safari).
+
+## Thank you
+
+You can support me on [GitHub](https://github.com/sponsors/nikitavoloboev) or look into [other projects](https://nikiv.dev/projects) I shared. ♥️
+
+[![MIT-0](https://img.shields.io/badge/license-MIT-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/) [![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)
