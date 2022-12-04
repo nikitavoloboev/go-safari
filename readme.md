@@ -18,7 +18,7 @@ This will put `safari` binary in your [Go path](https://gist.github.com/nikitavo
 
 ### Use
 
-Currently running `safari` will print current Safari open URL.
+Running `safari` will print current Safari open URL.
 
 ## Library
 
