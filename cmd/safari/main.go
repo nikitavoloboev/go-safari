@@ -1,4 +1,4 @@
-package safari
+package main
 
 import (
 	"fmt"
